@@ -184,55 +184,6 @@ Now let's **add furniture**. I click on 'Furniture Library'.
 
 *[CLICK: Furniture Library or furniture icon]*
 
-*[SHOW: List of furniture items with images and prices]*
-
-Here are all available furniture:
-- Modern Sofa - 899 dollars
-- Dining Chair - 120 dollars  
-- Dining Table - 650 dollars
-- Dining Bench - 180 dollars
-
-Let me add a **sofa** by clicking on it.
-
-*[CLICK: Sofa item]*
-
-The sofa appears in the room. I can now **drag it** to move it in the room.
-
-*[DRAG: Sofa in the 3D view - move it to a good position]*
-
-I can also **drag furniture in the 2D view** to position it precisely.
-
-*[MOVE FURNITURE in 2D view]*
-
-Notice the furniture updates in both views - 2D and 3D together.
-
-**Now let me scale the furniture** - make it bigger or smaller. I click on the sofa to select it.
-
-*[CLICK: Sofa to select it → see selection highlight]*
-
-Look - you can see resize handles. I'll drag the corner to make it bigger.
-
-*[DRAG: Resize handle → furniture gets bigger]*
-
-**Now let's change colors.** I'll click the color button for the sofa.
-
-*[CLICK: Color picker or paint button]*
-
-*[SHOW: Color palette]*
-
-Let me change it to a blue color.
-
-*[CLICK: Blue color → sofa turns blue]*
-
-Beautiful! Now let me add more furniture - I'll add the dining table.
-
-*[CLICK: Furniture Library again]*
-
-*[CLICK: Dining Table]*
-
-The table appears. I'll position it near the sofa.
-
-*[DRAG: Table to position it]*
 
 Great! Now let me add two chairs around the table.
 
